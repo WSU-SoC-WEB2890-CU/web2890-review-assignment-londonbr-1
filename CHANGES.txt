@@ -1,1 +1,35 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+What I added:
+
+I added a Pricing section for the various services. I figured it would reduce redundant questions coming in to the company email.
+I included a table which had not been used previously.
+
+I added an about me section. I always like to know who I'm working with and their story. I made this with a grid containing a picture
+and a card. I made it responsive and made the columns stack once it got down to a smaller screen.
+
+What I changed:
+
+I changed the color theme to something a litle more me. It has blues, pinks, and grays. I used adobe color
+to make sure the color constrast looked best. 
+
+I changed the main icon in the navigation bar to a smiley face because smiling is my favorite. 
+
+I changed the cloud section to photography and changed the icon to a camera. 
+
+I fixed the padding on the top of the names in the testimonials because the ovals containing the pictures 
+got elongated. 
+
+I removed the phone number that was in the navigation bar. I felt like it was distracting to me and 
+I would personally not have my number so visible right there. So I adapted it to be more personalized to me.
+
+I changed the trusted by section to "sponsored by" and added some of my favorite companies. I still wanted to include Amazon
+because my husband and I got so many Amazon gift cards from our wedding.
+
+I added an alert after the testimonials so people can send in their own for review.
+
+I changed the section under "my services" to have quick links to more info on each section. This helps especially on mobile
+devices so people don't have to scroll as far to find a specific section.
+
+I changed all of the portfolio projects to my own projects. 
+

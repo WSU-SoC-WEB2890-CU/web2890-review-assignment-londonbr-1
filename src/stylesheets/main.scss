@@ -1,10 +1,12 @@
 @use 'custom';
 
+
 // Import components
 @use 'components/animations';
 @use 'components/buttons';
 @use 'components/mixins';
 @use 'components/typography';
+
 
 // Import sections
 @use 'sections/navbar';
@@ -16,3 +18,5 @@
 @use 'sections/portfolio';
 @use 'sections/get-started';
 @use 'sections/footer';
+@use 'sections/pricing-section';
+@use 'sections/about-me';
