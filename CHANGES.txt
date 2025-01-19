@@ -10,7 +10,7 @@ and a card. I made it responsive and made the columns stack once it got down to 
 
 What I changed:
 
-I changed the color theme to something a litle more me. It has blues, pinks, and grays. I used adobe color
+I changed the color theme to something a litle more me. It has blues, tans, and browns. I used adobe color
 to make sure the color constrast looked best. 
 
 I changed the main icon in the navigation bar to a smiley face because smiling is my favorite. 
